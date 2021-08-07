@@ -3,9 +3,9 @@
 :root {
   --success: #2ecc71;
   --error: #e74c3c;
-  --text-color: #777;
+  --text-color: rgb(32, 9, 9);
   --white: #fff;
-  --dark-text: #1c2042;
+  --dark-text: #17171a;
 }
 
 * {
@@ -20,7 +20,7 @@ html {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #f9fafb;
+  background-color: #2acaf1;
   display: flex;
   align-items: center;
   justify-content: center;
